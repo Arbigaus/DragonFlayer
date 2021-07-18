@@ -2,5 +2,6 @@ Temp/
 Library/
 Logs/
 iOSBuild/
+AndroidBuild/
 obj/
 .idea/
