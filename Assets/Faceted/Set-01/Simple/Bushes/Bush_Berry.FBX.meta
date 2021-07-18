@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 1c0134c401078744391fc0dd41f794a1
+timeCreated: 1504290328
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bush1
+    100002: //RootNode
+    100004: Plane004
+    100006: Plane005
+    100008: Plane006
+    100010: Plane007
+    100012: Plane008
+    100014: Plane009
+    100016: Plane010
+    100018: Plane011
+    100020: Plane012
+    100022: Plane013
+    100024: Plane014
+    100026: Berry
+    100028: Berry 1
+    100030: Berry 10
+    100032: Berry 2
+    100034: Berry 3
+    100036: Berry 4
+    100038: Berry 5
+    100040: Berry 6
+    100042: Berry 7
+    100044: Berry 8
+    100046: Berry 9
+    400000: Bush1
+    400002: //RootNode
+    400004: Plane004
+    400006: Plane005
+    400008: Plane006
+    400010: Plane007
+    400012: Plane008
+    400014: Plane009
+    400016: Plane010
+    400018: Plane011
+    400020: Plane012
+    400022: Plane013
+    400024: Plane014
+    400026: Berry
+    400028: Berry 1
+    400030: Berry 10
+    400032: Berry 2
+    400034: Berry 3
+    400036: Berry 4
+    400038: Berry 5
+    400040: Berry 6
+    400042: Berry 7
+    400044: Berry 8
+    400046: Berry 9
+    2300000: Bush1
+    2300002: Plane004
+    2300004: Plane005
+    2300006: Plane006
+    2300008: Plane007
+    2300010: Plane008
+    2300012: Plane009
+    2300014: Plane010
+    2300016: Plane011
+    2300018: Plane012
+    2300020: Plane013
+    2300022: Plane014
+    2300024: Berry
+    2300026: Berry 1
+    2300028: Berry 10
+    2300030: Berry 2
+    2300032: Berry 3
+    2300034: Berry 4
+    2300036: Berry 5
+    2300038: Berry 6
+    2300040: Berry 7
+    2300042: Berry 8
+    2300044: Berry 9
+    3300000: Bush1
+    3300002: Plane004
+    3300004: Plane005
+    3300006: Plane006
+    3300008: Plane007
+    3300010: Plane008
+    3300012: Plane009
+    3300014: Plane010
+    3300016: Plane011
+    3300018: Plane012
+    3300020: Plane013
+    3300022: Plane014
+    3300024: Berry
+    3300026: Berry 1
+    3300028: Berry 10
+    3300030: Berry 2
+    3300032: Berry 3
+    3300034: Berry 4
+    3300036: Berry 5
+    3300038: Berry 6
+    3300040: Berry 7
+    3300042: Berry 8
+    3300044: Berry 9
+    4300000: Plane014
+    4300002: Plane013
+    4300004: Plane012
+    4300006: Plane011
+    4300008: Plane010
+    4300010: Plane009
+    4300012: Plane008
+    4300014: Plane007
+    4300016: Plane006
+    4300018: Plane005
+    4300020: Plane004
+    4300022: Bush1
+    4300024: Berry
+    4300026: Berry
+    4300028: Berry
+    4300030: Berry
+    4300032: Berry
+    4300034: Berry
+    4300036: Berry
+    4300038: Berry
+    4300040: Berry
+    4300042: Berry
+    4300044: Berry
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
